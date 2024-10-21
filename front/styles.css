@@ -115,3 +115,22 @@ footer {
   bottom: 0; /* Posiciona o rodapé na parte inferior da página */
 }
 
+#user-list{
+  font-weight: bold;
+    color: #ffffff;
+    padding: 5px 5px; 
+    border-radius: 15px; /*Arredonda os cantos do botão*/
+    border: none;
+    background-color: rgb(48, 48, 48);
+    max-width: 600px;
+    width: 580px;
+    margin-top: 50px;
+    text-align: center; /* Centraliza o texto */
+    margin: auto;
+}
+
+h2{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
